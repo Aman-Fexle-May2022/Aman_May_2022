@@ -3,5 +3,7 @@ class Calculator
 public static void main(String args[])
 {
 	System.out.println("Hello World");
+	public static Integer variable1=2;
+	public static Integer variable2=3;
 }
 }
